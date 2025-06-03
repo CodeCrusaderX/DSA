@@ -2,8 +2,8 @@ class Solution {
     public class Pair {
         int row;
         int col;
-        int t;
-
+        int t;  //new
+        
         Pair(int row, int col, int t) {
             this.row = row;
             this.col = col;

@@ -1,5 +1,5 @@
 class Solution {
-    public static class Pair{
+    public static class Pair{ //adde particular correct code
         int row;
         int col;
         int dis;
